@@ -75,7 +75,6 @@ Data is primarily processed in East African data centers. Some backup and proces
 
 ## 8. Contact & Complaints
 
-**Data Protection Officer:** privacy@bizmanager.co.tz  
 **Support:** support@bizmanager.co.tz  
 **Business Hours:** 8:00 AM - 6:00 PM EAT, Monday - Saturday
 
