@@ -84,7 +84,6 @@ We will respond within 5 business days. Unresolved disputes may be referred to t
 
 ## 10. Contact Information
 
-**Billing Department:** billing@bizmanager.co.tz  
 **Support:** support@bizmanager.co.tz  
 **Phone:** +255 749 582 686 (Billing Inquiries Only)  
 **Business Hours:** 8:00 AM - 6:00 PM EAT, Monday - Saturday
